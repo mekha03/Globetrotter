@@ -22,14 +22,11 @@ In comes **"Globetrotter"**, a scavenger hunt game that takes you around the wor
 
 - **North America:** Canada, Mexico, Guatemala, Jamaica, Trinidad and Tobago, Costa Rica
 - **South America:** Brazil, Suriname, Guyana, Argentina, Ecuador, Peru
-- **Europe:** UK, France, Bulgaria, Albania, Finland, Türkiye
-- **Asia:** India, Philippines,  China, Russia, United Arab Emirates, Maldives
+- **Europe:** UK, France, Bulgaria, Albania, Finland, Cyprus
+- **Asia:** India, Philippines,  China, Türkiye, United Arab Emirates, Maldives
 - **Africa:** Algeria, Mauritius, Kenya, Egypt, Zimbabwe, Chad
 - **Oceania:** Australia, New Zealand, Tuvalu, Papua New Guinea, Fiji, Samoa
 - **Antarctica:** no countries here lol, just penguins and researchers  
 
  *Inspiration: Where in the world is Carmen Sandiego* 
 
- 
-
- 
