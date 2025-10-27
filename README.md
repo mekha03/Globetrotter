@@ -1,7 +1,5 @@
-# Youth-Coders-Hack-2025
-Repository for my submission to Youth Coders Hack 2025
-
 # Globetrotter 🌎
+*This was intended for Youth Hackers 2025, but sadly life happened and I didn't finish in time*
 
 ### Criteria:
 Your project should connect to our theme of social good, using technology to improve people’s lives or communities. You can build anything that could benefit society, solve societal problems, and improve accessibility. 
